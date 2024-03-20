@@ -4,7 +4,7 @@ Created a Simulated Environment of Crypto Currency in Python from scratch using 
 
 The Code Modules:
 
->> creating tranactions
->> verifying and converting  transactions to blocks
->> parallel mining
->> adding blocks to chain
+... creating tranactions
+... verifying and converting  transactions to blocks
+... parallel mining
+... adding blocks to chain
